@@ -61,7 +61,7 @@
        </a> 
      </td>
      <td align="center" width="150" height="150">
-       <a href="https://aeiforge-portfolio.vercel.app" align="center">
+       <a href="https://aeiforge-portfolio.vercel.app/member/vinh" align="center">
         <img src="https://img.icons8.com/?size=100&id=BcWr8NBOsovH&format=png&color=000000" alt="Vinh Portfolio" title="Vinh Portfolio" height="80" />
         <br />
         <sub>
