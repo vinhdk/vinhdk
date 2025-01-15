@@ -79,7 +79,7 @@
        </a> 
      </td>
      <td align="center" width="150" height="150">
-       <a href="https://www.topcv.vn/xem-cv/CVMCVw8AUVBTU1JdUwkHBgFQAlQCB1MBAwtWUw8844" align="center">
+       <a href="https://drive.google.com/file/d/1U7ADk3Q6p-ffaLPimjj-LUu3KokO73vT/view?usp=sharing" align="center">
         <img src="https://img.icons8.com/?size=100&id=REWqOFWKTiZj&format=png&color=000000" alt="Vinh CV" title="Vinh CV" height="80" />
         <br />
         <sub>
